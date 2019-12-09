@@ -20,8 +20,8 @@ public class ClienteBancoDAO implements ClienteDAO{
 
     public void conectar() {
         String servidor = "jdbc:mysql://localhost:3306/mydb";
-        String usuario = "root";
-        String senha = "Theo@1703";
+        String usuario = "root"; //Usuário da sua conexão ao MySQL
+        String senha = ""; //Senha da sua conexão ao MySQL
         String driver = "com.mysql.jdbc.Driver";
 
         try {
