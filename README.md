@@ -1,12 +1,12 @@
-	Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO) como parte dos requisitos de aprovação do curso de Análise e Desenvolvimento de Sistemas do IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, câmpus Bragança Paulista/SP.
+	Projeto desenvolvido para a disciplina de ProgramaÃ§Ã£o Orientada a Objetos (POO) como parte dos requisitos de aprovaÃ§Ã£o do curso de AnÃ¡lise e Desenvolvimento de Sistemas do IFSP - Instituto Federal de EducaÃ§Ã£o, CiÃªncia e Tecnologia de SÃ£o Paulo, cÃ¢mpus BraganÃ§a Paulista/SP.
 
-	O projeto em questão apresenta um software Desktop desenvolvido com suporte da linguagem Java, e simula um sistema para registro de pedidos de uma pizzaria.
+	O projeto em questÃ£o apresenta um software Desktop desenvolvido com suporte da linguagem Java, e simula um sistema para registro de pedidos de uma pizzaria.
 
 Utilizado:
 	Java(Swing)
 
-	Os padrões de projeto estão comentados com suas devidos códigos implementados.
-		Padrões utilizados:
+	Os padrÃµes de projeto estÃ£o comentados com suas devidos cÃ³digos implementados.
+		PadrÃµes utilizados:
 			- Model View Controller (Implementado em toda a arquitetura do sistema;
 			- DAO (Implementado nos arquivos Controller);
 			- Observer (Implementado e comentado em: MODEL -> BancoDeDados);
@@ -20,8 +20,4 @@ Utilizado:
 
 
 
-Jefferson Castro	BP300225-X
 Lucas Pereira		BP300156-3
-Paula Sandoli		BP300169-5
-Vitória Crispim		BP300228-4
-
