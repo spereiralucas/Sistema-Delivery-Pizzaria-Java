@@ -6,7 +6,7 @@ import br.projeto.model.ClienteBancoDAO;
 public class Main {
 
 	/**
-	 * @author JEFFERSON CASTRO; LUCAS PEREIRA; PAULA SANDOLI; VITÓRIA CRISPIM.
+	 * @author LUCAS PEREIRA
 	 * @in 02/12/2019 
 	 * @version 1.0
 	 * @serialData 29/11/2019
